@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>devops-build</finalName>
 	</build>
 
 </project>
